@@ -1,7 +1,4 @@
-# reading-notes
-Reading notes for Code Fellows courses.
-
-## Code 301
+# Code 301
 
 - Class 01
 - Class 02
