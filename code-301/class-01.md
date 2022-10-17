@@ -1,6 +1,11 @@
 # Introduction to React and Components
 
+## Why this topic matters
+
+React allows us to create components to create our UIs. Because components are reusable and modular, they can help us write much more organized code without having repetitive code.
+
 ## Component-Based Architecture
+Answers base on this [tutorialspoint article](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm).
 
 1. What is a "component"?
 
@@ -23,6 +28,7 @@
 
 
 ## Props in React
+Answers based on this [ITNEXT article](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child).
 
 1. What is "props" short for?
 
