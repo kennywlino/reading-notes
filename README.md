@@ -1,7 +1,7 @@
 # Code 301
 
 - [Class 01](./code-301/class-01.md) - Introduction to React and Components
-- Class 02
+- [Class 02](./code-301/class-02.md) - State and Props
 - Class 03
 - Class 04
 - Class 05

@@ -5,7 +5,7 @@
 React allows us to create components to create our UIs. Because components are reusable and modular, they can help us write much more organized code without having repetitive code.
 
 ## Component-Based Architecture
-Answers base on this [tutorialspoint article](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm).
+Answers based on this [tutorialspoint article](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm).
 
 1. What is a "component"?
 
