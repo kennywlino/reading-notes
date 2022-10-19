@@ -2,6 +2,8 @@
 
 ## Why this topic matters
 
+Passing functions as props allow us to maintain state in a parent component but update them in a child component.
+
 ## List and keys
 
 Based on [React Docs](https://reactjs.org/docs/lists-and-keys.html).
