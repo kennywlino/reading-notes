@@ -41,9 +41,9 @@ Based on this [Medium article](https://medium.com/coding-at-dawn/how-to-use-the-
     The spread operator is used to take an iterable object (e.g. an array)`and expand its elements into a list of arguments.
 
     ```javascript
-        // Math functions tend to need the numbers as args
-        Math.max([2, 4, 6]); // NaN
-        Math.max(...[2, 4, 6]) // 6
+    // Math functions tend to need the numbers as args
+    Math.max([2, 4, 6]); // NaN
+    Math.max(...[2, 4, 6]) // 6
     ```
 
 2. List 4 things that the spread operator can do.
@@ -92,15 +92,15 @@ Based on this [video](https://www.youtube.com/watch?v=c05OL7XbwXU).
 2. In your own words, what does the increment function do?
 
     ```javascript
-        // from the video
-        increment = (name) => {
-            let ppl = this.state.people.map ( (p) => {
-                if(p.name === name) {
-                    p.count++;
-                }
-                return p;
-            })
-        }
+    // from the video
+    increment = (name) => {
+        let ppl = this.state.people.map ( (p) => {
+            if(p.name === name) {
+                p.count++;
+            }
+            return p;
+        })
+    }
     ```
 
     The increment function takes in a `name` and takes `people` from the `state` object and maps it to a new array `ppl`. The `map` function iterates over each object `p` from `people` and will increment `+` the `count` of that object if the `p.name` matches `name`.
