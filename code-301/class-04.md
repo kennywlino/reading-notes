@@ -2,7 +2,7 @@
 
 ## Why this topic matters
 
-    As we integrate HTML form elements into React, we need to find a way to maintain form element state with React state. Fortunately, there's an easy way to keep state consistent.
+As we integrate HTML form elements into React, we need to find a way to maintain form element state with React state. Fortunately, there's an easy way to keep state consistent.
 
 ## Forms
 
