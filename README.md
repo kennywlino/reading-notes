@@ -3,7 +3,7 @@
 - [Class 01](./code-301/class-01.md) - Introduction to React and Components
 - [Class 02](./code-301/class-02.md) - State and Props
 - [Class 03](./code-301/class-03.md) - Passing Functions as Props
-- Class 04
+- [Class 04](/.code-301/class-04.md) - React and Forms
 - Class 05
 - Class 06
 - Class 07
