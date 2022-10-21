@@ -8,6 +8,8 @@ Higher-order functions are important as they are useful for processing data. We 
 
 ## Thinking in React
 
+Based on [React docs](https://reactjs.org/docs/thinking-in-react.html).
+
 1. What is the single responsibility principle and how does it apply to components?
 
     The single responsibility principle says that a module should be responsible for doing only *one* thing. With components, if they get too big, they need to be broken down into smaller components.
@@ -36,6 +38,8 @@ Higher-order functions are important as they are useful for processing data. We 
     - find a common component parent
 
 ## Higher-Order Functions
+
+Based on chapter from [Eloquent JavaScript](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK).
 
 1. What is a “higher-order function”?
 
