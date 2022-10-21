@@ -2,9 +2,9 @@
 
 ## Why this topic matters
 
-    Thinking in React is because as applications get bigger in React, it becomes harder to know what parts should be made into its own component. It also becomes harder to decide what pieces of data should be maintained as props vs. state. 
+Thinking in React is because as applications get bigger in React, it becomes harder to know what parts should be made into its own component. It also becomes harder to decide what pieces of data should be maintained as props vs. state. 
 
-    Higher-order functions are important as they are useful for processing data. We also use them frequently with Array functions like map, reduce, filter, and forEach, so this helps us understand what is possibly happening under the hood.
+Higher-order functions are important as they are useful for processing data. We also use them frequently with Array functions like map, reduce, filter, and forEach, so this helps us understand what is possibly happening under the hood.
 
 ## Thinking in React
 
@@ -35,7 +35,6 @@
     - looking at all components that rely on that particular state
     - find a common component parent
 
-
 ## Higher-Order Functions
 
 1. What is a “higher-order function”?
@@ -45,7 +44,7 @@
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
     Line 2 of this function is returning a boolean statement that says return whether m is greater than n.
-   
+
     ```javascript
     // from the reading
     function greaterThan(n) {
