@@ -4,7 +4,7 @@
 - [Class 02](./code-301/class-02.md) - State and Props
 - [Class 03](./code-301/class-03.md) - Passing Functions as Props
 - [Class 04](./code-301/class-04.md) - React and Forms
-- Class 05
+- [Class 05](./code-301/class-05.md) - Thinking in React and Higher-Order Functions
 - Class 06
 - Class 07
 - Class 08
