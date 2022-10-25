@@ -2,9 +2,9 @@
 
 ## Why this topic matters
 
-    Node.js is important as it will allow us to use JavaScript for the complete full-stack experience (i.e. for both the front-end and back-end). 
+Node.js is important as it will allow us to use JavaScript for the complete full-stack experience (i.e. for both the front-end and back-end). 
 
-    Pair programming is important as it allows us to expand our understanding of coding as we collaborate to efficiently write algorithms and become more job-ready.
+Pair programming is important as it allows us to expand our understanding of coding as we collaborate to efficiently write algorithms and become more job-ready.
 
 ## Node.js
 

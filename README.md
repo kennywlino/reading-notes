@@ -6,7 +6,7 @@
 - [Class 04](./code-301/class-04.md) - React and Forms
 - [Class 05](./code-301/class-05.md) - Thinking in React and Higher-Order Functions
 - [Class 06](./code-301/class-06.md) - Node.js and Pair Programming
-- Class 07
+- [Class 07](./code-301/class-07.md) - What Google Learned From Its Quest to Build the Perfect Team / How I explained REST to my brother
 - Class 08
 - Class 09
 - Class 10
