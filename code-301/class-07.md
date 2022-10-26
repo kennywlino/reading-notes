@@ -2,6 +2,10 @@
 
 ## Why this topic matters
 
+Knowing what can create a perfect team is important as we're all likely to end up working on some form of team whether in our career or elsewhere. Knowing that psychological safety can facilitate healthy spaces is a good step towards creating perfect teams.
+
+Understanding REST helps us see how data is communicated across the Internet in just 4 commands via the HTTP protocol.
+
 ## What Google Learned From Its Quest to Build the Perfect Team
 
 Based on this [New York Times article](https://archive.ph/QHhUe).
