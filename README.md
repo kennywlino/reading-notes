@@ -8,7 +8,7 @@
 - [Class 06](./code-301/class-06.md) - Node.js and Pair Programming
 - [Class 07](./code-301/class-07.md) - What Google Learned From Its Quest to Build the Perfect Team / How I explained REST to my brother
 - [Class 08](./code-301/class-08.md) - API Design Best Practices
-- Class 09
+- [Class 09](./code-301/class-09.md) - Functional Progamming Concepts and Node.js Modules and require()
 - Class 10
 - Class 11
 - Class 12

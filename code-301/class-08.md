@@ -2,7 +2,7 @@
 
 ## Why this topic matters
 
-This topic is important as we design our own APIs as the purpose of APIs are to have consistent data representations and requests across the web. Organizing our assets within the API also can get difficult without having a structure to how to expose the data via the API. Emphasaizing that the data should be organized via the resources (nouns) helps us estaablish consistency.
+This topic is important as we design our own APIs as the purpose of APIs are to have consistent data representations and requests across the web. Organizing our assets within the API also can get difficult without having a structure to how to expose the data via the API. Emphasizing that the data should be organized via the resources (nouns) helps us establish consistency.
 
 ## API Design Best Practices
 
