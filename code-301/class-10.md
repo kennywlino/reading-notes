@@ -2,9 +2,9 @@
 
 ## Why this topic matters
 
-    Knowing how the JavaScript call stack functions is important as we want to be able to clearly see what order code is executed. This is especially important when we use callbacks and asynchronous functions.
+Knowing how the JavaScript call stack functions is important as we want to be able to clearly see what order code is executed. This is especially important when we use callbacks and asynchronous functions.
 
-    Understanding errors is also significant as we want to be able to quickly grasp what's impacting our code and think of ways to fix them. 
+Understanding errors is also significant as we want to be able to quickly grasp what's impacting our code and think of ways to fix them. 
 
 ## Understanding the JavaScript Call Stack
 
