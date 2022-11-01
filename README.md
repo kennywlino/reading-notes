@@ -11,7 +11,7 @@
 - [Class 09](./code-301/class-09.md) - Functional Progamming Concepts and Node.js Modules and require()
 - [Class 10](./code-301/class-10.md) - The JavaScript Call Stack and JavaScript Error Messages
 - [Class 11](./code-301/class-11.md) - SQL vs. NoSQL
-- Class 12
+- [Class 12](./code-301/class-12.md) - CRUD
 - Class 13
 - Class 14
 - Class 15
