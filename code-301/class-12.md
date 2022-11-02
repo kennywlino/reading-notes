@@ -2,6 +2,8 @@
 
 ## Why this topic matters
 
+Understanding status codes and how to specify certain results given from the server is important as we build out our own RESTful applications.
+
 ## Status Codes Based on REST Methods
 
 Based on this [blog post](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/).
