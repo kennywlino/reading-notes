@@ -13,5 +13,5 @@
 - [Class 11](./code-301/class-11.md) - SQL vs. NoSQL
 - [Class 12](./code-301/class-12.md) - CRUD
 - [Class 13](./code-301/class-13.md) - More CRUD
-- Class 14
-- Class 15
+- [Class 14](./code-301/class-14.md) - Diversity & Inclusion in the Tech Industry
+- [Class 15](./code-301/class-15.md) - Authentication
